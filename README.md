@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/finding-alpha-findingalpha-ai-mcp-badge.png)](https://mseep.ai/app/finding-alpha-findingalpha-ai-mcp)
+
 # FindingAlpha AI MCP Server
 
 [![smithery badge](https://smithery.ai/badge/findingalpha-ai-mcp)](https://smithery.ai/server/findingalpha-ai-mcp)
